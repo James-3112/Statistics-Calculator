@@ -1,6 +1,6 @@
 import statistics
 
-print("Made By a Pikachu")
+print("Made By ++++++++++[>+>+++>+++++++>++++++++++<<<<-]>>>++++++++++.>+++++.++.----------.++.+++++.+++++++++++++.")
 print("Put in your numbers with spaces between them")
 print("They no not have to be in order")
 print("\n")
